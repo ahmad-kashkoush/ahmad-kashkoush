@@ -18,5 +18,5 @@ I'm **ِAhmed Kashkoush** (AKA **Kashkoush**). I'm a junior _CS Student_, _Compe
 
 
 ## You can reach me here
-
+<a href="https://www.linkedin.com/in/ahmed-kashkoush-9658a9265/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Kashkoush-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
