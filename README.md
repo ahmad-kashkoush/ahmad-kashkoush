@@ -20,6 +20,7 @@ I'm **ِAhmed Kashkoush** (AKA **Kashkoush**). I'm a junior _CS Student_, _Compe
 ## You can reach me here
 <a href="https://www.linkedin.com/in/ahmed-kashkoush-9658a9265/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Kashkoush-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
+![cpp](https://img.shields.io/badge/-cpp-05122A?style=flat)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
