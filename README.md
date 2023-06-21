@@ -1,11 +1,17 @@
-## Hi 👋
-I'm **ِAhmed Kashkoush** (AKA **Kashkoush**). I'm a junior _CS Student_, _Competitive Programmer_, and _Software Developer_. I love to solve problems, build cool projects, and share my knowledge with my fellows.
 
-## Here's some facts about me
-- 🔭 I Love Boxing, Sports in General
-- 🌱 I competed in the Africa & Arab Collegiate Programming Championship (ACPC) 2021 & 2022.
-- 😄 I'm currently studying **Dynamic Programming and OOP** 
-- ⚡ I enjoy Problem solving, Robe Jump, Running, Reading Books, Anime specially **Attack On Titans**
+<div align=center>
+	<h2> Hi 👋, I'm Ahmed Kashkoush</h2>
+	<img src="https://komarev.com/ghpvc/?username=Ahmed-Kashkoush&color=blue">
+  </div>
+	
+
+
+## About me
+- :student: I'm Learning `Computer Science` From `OSSU`
+- 🌱 I competed in the Africa & Arab Collegiate Programming Championship `(ACPC)` 2021 & 2022.
+- 😄 I'm currently studying `Front-End Development` As Technology 
+- ⚡ I enjoy Problem Solving
+
 
 ## Programming Skills
 - Java, C++, OOP
@@ -17,8 +23,14 @@ I'm **ِAhmed Kashkoush** (AKA **Kashkoush**). I'm a junior _CS Student_, _Compe
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-## You can reach me here
-<a href="https://www.linkedin.com/in/ahmed-kashkoush-9658a9265/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Kashkoush-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+## You can reach me 
+<p align="center">
+		<a href="https://www.linkedin.com/in/ahmed-kashkoush-9658a9265/"><img src="https://github.com/Ahmed-Elmoslmany/Ahmed-Elmoslmany/raw/main/icons/linkedin.svg" alt="LinkedIn" width="50px" title="linkedin"/></a>
+	<a href="mailto:ahmedkashkoush464@gmail.com"><img img src="https://github.com/Ahmed-Elmoslmany/Ahmed-Elmoslmany/raw/main/icons/gmail.svg" alt="Gmail" title="gmail" width="50px"/></a>
+	<a href="https://wa.me/01000976038"><img src="https://github.com/Ahmed-Elmoslmany/Ahmed-Elmoslmany/raw/main/icons/whatsapp.svg" alt="Whatsapp" title="whatsapp" width="50px"/></a>
+</p>
+<hr>
+
 ### 🛠 &nbsp;Tech Stack
 ![cpp](https://img.shields.io/badge/-cpp-05122A?style=flat)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
