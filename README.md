@@ -16,6 +16,11 @@
 ## Programming Skills
 - Java, C++, OOP
 - Data Structures, Algorithms, Competitive Programming
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad-kashkoush&show_icons=true&locale=en&layout=compact" alt="ahmad-kashkoush" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmad-kashkoush&show_icons=true&locale=en" alt="ahmad-kashkoush" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-kashkoush&" alt="ahmad-kashkoush" /></p>
 
 ## Developer Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
