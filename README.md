@@ -1,54 +1,28 @@
 
-<div align=center>
-	<h2> Hi 👋, I'm Ahmed Kashkoush</h2>
-	<img src="https://komarev.com/ghpvc/?username=Ahmed-Kashkoush&color=blue">
-  </div>
-	
 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is  Ahmed Kashkoush
+========================================================================================================================================
 
-## About me
-- :student: I'm Learning `Computer Science` From `OSSU`
-- 🌱 I competed in the Africa & Arab Collegiate Programming Championship `(ACPC)` 2021 & 2022.
-- 😄 I'm currently studying `Front-End Development` As Technology 
-- ⚡ I enjoy Problem Solving
+I am  a  Fullstack developer.
+--------------------------
 
+*   🌍  I'm From in Egypt 🇪🇬 
+*   🧑‍🎓 I'm Learning `Computer Science` From `OSSU`
+*   🌱 I competed in the Africa & Arab Collegiate Programming Championship `(ACPC)` 2021 & 2022.
+*   🖥️ I'm  currently learning [Javascript](https://github.com/ahmad-kashkoush/Js-Jonas)
+*   ⚡ I enjoy Problem Solving
+*   🤝  I'm open to collaborating on interesting projects as a developer
 
-## Programming Skills
-- Java, C++, OOP
-- Data Structures, Algorithms, Competitive Programming
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad-kashkoush&show_icons=true&locale=en&layout=compact" alt="ahmad-kashkoush" /></p>
+### 	Tech Stack 🚀
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmad-kashkoush&show_icons=true&locale=en" alt="ahmad-kashkoush" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-kashkoush&" alt="ahmad-kashkoush" /></p>
-
-## Developer Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a></a>
 
 ## You can reach me 
+
 <p align="center">
 		<a href="https://www.linkedin.com/in/ahmed-kashkoush-9658a9265/"><img src="https://github.com/Ahmed-Elmoslmany/Ahmed-Elmoslmany/raw/main/icons/linkedin.svg" alt="LinkedIn" width="50px" title="linkedin"/></a>
 	<a href="mailto:ahmedkashkoush464@gmail.com"><img img src="https://github.com/Ahmed-Elmoslmany/Ahmed-Elmoslmany/raw/main/icons/gmail.svg" alt="Gmail" title="gmail" width="50px"/></a>
 	<a href="https://wa.me/01000976038"><img src="https://github.com/Ahmed-Elmoslmany/Ahmed-Elmoslmany/raw/main/icons/whatsapp.svg" alt="Whatsapp" title="whatsapp" width="50px"/></a>
 	<a href="https://t.me/AHMED_KASHKOUSH"><img src="https://github.com/ahmad-kashkoush/ahmad-kashkoush/blob/main/telegram.svg" alt="Telegram" title="Telegram" width="50px"/></a>
 </p>
-<hr>
-
-### 🛠 &nbsp;Tech Stack
-![cpp](https://img.shields.io/badge/-cpp-05122A?style=flat)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-### 🛠 &nbsp;Tech Stack Not Learnt yet
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-
 
