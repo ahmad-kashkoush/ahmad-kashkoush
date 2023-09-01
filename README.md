@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am  a  Fullstack developer.
 --------------------------
 
-*   🌍  I'm From in Egypt 🇪🇬 
+*   🌍  I'm From  Egypt 🇪🇬 
 *   🧑‍🎓 I'm Learning `Computer Science` From `OSSU`
 *   🌱 I competed in the Africa & Arab Collegiate Programming Championship `(ACPC)` 2021 & 2022.
 *   🖥️ I'm  currently learning [Javascript](https://github.com/ahmad-kashkoush/Js-Jonas)
