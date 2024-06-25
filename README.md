@@ -32,8 +32,8 @@ I am  a  Fullstack developer.
 
 ### React
 
+- [Social Media clone](https://github.com/ahmad-kashkoush/social-media-clone)
 - [worldwise](https://github.com/ahmad-kashkoush/worldwise)
-- [Social Media clone](https://github.com/ahmad-kashkoush/social-media-clone): in Progress
 - [Quiz App](https://github.com/ahmad-kashkoush/react-quiz)
 
 ### javascript
