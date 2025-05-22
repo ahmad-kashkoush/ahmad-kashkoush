@@ -6,10 +6,10 @@ Hi👋, My name is  Ahmed Kashkoush
 I am  a  Fullstack developer.
 --------------------------
 
-*   🌍  I'm From  Egypt 🇪🇬 
-*   🧑‍🎓 I'm Learning `Computer Science` From `OSSU`
+*   🔭 I was accepted to participate in Google Summer of Code 2021 @GitLab.
+*   🧑‍🎓 I'm learning `Computer Science` From `OSSU`
+*   🧑‍🎓 I'm learning `Frontend` from `Frontend masters`
 *   🌱 I competed in the Africa & Arab Collegiate Programming Championship `(ACPC)` 2021 & 2022.
-*   🖥️ I'm  currently learning React
 *   ⚡ I enjoy Problem Solving
 *   🤝  I'm open to collaborating on interesting projects as a developer
 *   🌆 My [portfollio](https://portfollio-beige.vercel.app/) for More Info 
