@@ -6,7 +6,7 @@ Hi👋, My name is  Ahmed Kashkoush
 I am  a  Fullstack developer.
 --------------------------
 
-*   🔭 I was accepted to participate in Google Summer of Code 2021 @GitLab.
+*   🔭 I was accepted to participate in [Google Summer of Code]([url](https://summerofcode.withgoogle.com/)) 2025 [@GitLab]([url](https://github.com/gitlab-org)).
 *   🧑‍🎓 I'm learning `Computer Science` From `OSSU`
 *   🧑‍🎓 I'm learning `Frontend` from `Frontend masters`
 *   🌱 I competed in the Africa & Arab Collegiate Programming Championship `(ACPC)` 2021 & 2022.
