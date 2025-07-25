@@ -6,7 +6,7 @@ Hi👋, My name is  Ahmed Kashkoush
 I am  a  Fullstack developer.
 --------------------------
 
-*   🔭 I was accepted to participate in [Google Summer of Code]([url](https://summerofcode.withgoogle.com/)) 2025 [@GitLab]([url](https://github.com/gitlab-org)).
+*   🔭 I worked with Gitlab on implementing advanced source control operations to their Web IDE in my GSoC'25, ([My Project report]([url](https://github.com/ahmad-kashkoush/gitlab-web-ide-report)))
 *   🧑‍🎓 I'm learning `Computer Science` From `OSSU`
 *   🧑‍🎓 I'm learning `Frontend` from `Frontend masters`
 *   🌱 I competed in the Africa & Arab Collegiate Programming Championship `(ACPC)` 2021 & 2022.
@@ -30,22 +30,9 @@ I am  a  Fullstack developer.
 
 
 ## My Projects
+1. [Hotel-management-System](https://github.com/ahmad-kashkoush/Hotel-management-system): React
+2. [Chess-game](https://github.com/ahmad-kashkoush/Chess-Game): HTML, CSS, Javascript
+3. [Car-rental](https://github.com/ahmad-kashkoush/Car-Rental): React, Tailwind
+4. [Ask-me](https://github.com/ahmad-kashkoush/Ask-Me): c++
+5. [Expedia project](https://github.com/ahmad-kashkoush/Expedia-Project): c++
 
-### React
-
-- [worldwise](https://github.com/ahmad-kashkoush/worldwise)
-- [Social Media clone](https://github.com/ahmad-kashkoush/social-media-clone): in Progress
-- [Quiz App](https://github.com/ahmad-kashkoush/react-quiz)
-
-### javascript
-
-- [chess-game](https://github.com/ahmad-kashkoush/Chess-Game)
-- [Forkify](https://github.com/ahmad-kashkoush/Forkify-v2)
-- [Mapty-Project](https://github.com/ahmad-kashkoush/Mapty-Project)
-- [Bankist](https://github.com/ahmad-kashkoush/Bankist-Website)
-
-### HTML, CSS, Sass
-
-- [Template 3](https://github.com/ahmad-kashkoush/Kashkoush-Template) : Fully Responsive Landing Page
-- [Dashboard](https://github.com/ahmad-kashkoush/Dashboard)
-- [blogr landing page](https://github.com/ahmad-kashkoush/blogr-landing-page)
